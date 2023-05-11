@@ -1,2 +1,3 @@
-changes made in local
 # my-practice
+
+this line modified in both
